@@ -11,7 +11,7 @@ f.write("This has been written to")
 f.close()
 
 
-g = open(fileanme, "r")
+g = open(filename, "r")
 print(g.read())
 
 
